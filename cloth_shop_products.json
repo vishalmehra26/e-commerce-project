@@ -1,0 +1,776 @@
+[{
+  "_id": {
+    "$oid": "691017e952610592082345a7"
+  },
+  "name": "Premium Cotton Crew Neck T-Shirt (Pack of 2)",
+  "description": "Soft 180 GSM bio-washed cotton tees with a relaxed fit, reinforced collar, and fade-resistant dyes. Ideal for everyday wear and layering.",
+  "highlights": [
+    "Free returns within 7 days"
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "description": "100% combed cotton",
+      "_id": {
+        "$oid": "691017e952610592082345a8"
+      }
+    },
+    {
+      "title": "Fit",
+      "description": "Regular",
+      "_id": {
+        "$oid": "691017e952610592082345a9"
+      }
+    },
+    {
+      "title": "Color",
+      "description": "Navy & Charcoal",
+      "_id": {
+        "$oid": "691017e952610592082345aa"
+      }
+    }
+  ],
+  "price": 1599,
+  "cuttedPrice": 1299,
+  "images": [
+    {
+      "public_id": "products/cloth-mens-tee-1",
+      "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "_id": {
+        "$oid": "69118fab3138e1eacfa99c70"
+      }
+    },
+    {
+      "public_id": "products/cloth-mens-tee-2",
+      "url": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=800",
+      "_id": {
+        "$oid": "69118fab3138e1eacfa99c71"
+      }
+    },
+    {
+      "public_id": "products/cloth-mens-tee-3",
+      "url": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "_id": {
+        "$oid": "69118fab3138e1eacfa99c72"
+      }
+    },
+    {
+      "public_id": "products/cloth-mens-tee-4",
+      "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "_id": {
+        "$oid": "69118fab3138e1eacfa99c73"
+      }
+    }
+  ],
+  "brand": {
+    "name": "UrbanThread Co.",
+    "logo": {
+      "public_id": "brands/urbanthread-cloth",
+      "url": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=200"
+    }
+  },
+  "category": "Men's Casual Wear",
+  "stock": 120,
+  "warranty": 0,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:26:17.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691018f15261059208234614"
+  },
+  "name": "Embroidered Straight Kurta with Palazzo Set",
+  "description": "Breathable cotton-blend kurta with thread & mirror work, matching palazzo, and dupatta. Perfect for festivals and family gatherings.",
+  "highlights": [
+    "Includes dupatta & palazzo"
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "description": "Cotton viscose blend",
+      "_id": {
+        "$oid": "691018f15261059208234615"
+      }
+    },
+    {
+      "title": "Work",
+      "description": "Thread & sequin embroidery",
+      "_id": {
+        "$oid": "691018f15261059208234616"
+      }
+    },
+    {
+      "title": "Care",
+      "description": "Hand wash cold; dry in shade",
+      "_id": {
+        "$oid": "691018f15261059208234617"
+      }
+    }
+  ],
+  "price": 3299,
+  "cuttedPrice": 2799,
+  "images": [
+    {
+      "public_id": "products/cloth-ethnic-kurta-1",
+      "url": "https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?w=800",
+      "_id": {
+        "$oid": "69118f653138e1eacfa99c40"
+      }
+    }
+  ],
+  "brand": {
+    "name": "Threads & Motifs",
+    "logo": {
+      "public_id": "brands/threads-motifs-cloth",
+      "url": "https://images.unsplash.com/photo-1583496661160-fb5886a0aa0b?w=200"
+    }
+  },
+  "category": "Women's Ethnic Wear",
+  "stock": 45,
+  "warranty": 0,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:30:41.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6910198a5261059208234671"
+  },
+  "name": "Non-Iron Slim Fit Formal Shirt",
+  "description": "Wrinkle-resistant poplin shirt with spread collar and reinforced placket. Tailored for office, interviews, and evening events.",
+  "highlights": [
+    "Easy-iron finish"
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "description": "Cotton-rich poplin",
+      "_id": {
+        "$oid": "6910198a5261059208234672"
+      }
+    },
+    {
+      "title": "Fit",
+      "description": "Slim",
+      "_id": {
+        "$oid": "6910198a5261059208234673"
+      }
+    }
+  ],
+  "price": 1999,
+  "cuttedPrice": 1599,
+  "images": [
+    {
+      "public_id": "products/cloth-formal-shirt-1",
+      "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "_id": {
+        "$oid": "69118f423138e1eacfa99c11"
+      }
+    }
+  ],
+  "brand": {
+    "name": "SharpLine Formal",
+    "logo": {
+      "public_id": "brands/sharpline-formal",
+      "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200"
+    }
+  },
+  "category": "Formal Wear",
+  "stock": 80,
+  "warranty": 0,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:33:14.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69101a185261059208234696"
+  },
+  "name": "Floral Wrap Midi Dress",
+  "description": "Lightweight midi with adjustable waist tie, V-neckline, and breathable lining. Transitions from brunch to evening with ease.",
+  "highlights": [
+    "Side zip closure"
+  ],
+  "specifications": [
+    {
+      "title": "Fabric",
+      "description": "Viscose crepe",
+      "_id": {
+        "$oid": "69101a185261059208234697"
+      }
+    },
+    {
+      "title": "Length",
+      "description": "Midi (below knee)",
+      "_id": {
+        "$oid": "69101a185261059208234698"
+      }
+    }
+  ],
+  "price": 2499,
+  "cuttedPrice": 2199,
+  "images": [
+    {
+      "public_id": "products/cloth-midi-dress-1",
+      "url": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "_id": {
+        "$oid": "69118ef13138e1eacfa99be4"
+      }
+    },
+    {
+      "public_id": "products/cloth-midi-dress-2",
+      "url": "https://images.unsplash.com/photo-1572804013309-59a6b7a84dad?w=800",
+      "_id": {
+        "$oid": "69118ef13138e1eacfa99be5"
+      }
+    }
+  ],
+  "brand": {
+    "name": "Bloom & Lane",
+    "logo": {
+      "public_id": "brands/bloom-lane-women",
+      "url": "https://images.unsplash.com/photo-15153720322f-0a02087c3c0b?w=200"
+    }
+  },
+  "category": "Dresses & Jumpsuits",
+  "stock": 60,
+  "warranty": 0,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:35:36.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69101a8352610592082346ae"
+  },
+  "name": "Mesh Paneled Running Sneakers",
+  "description": "Lightweight knit upper with EVA midsole, heel cushioning, and durable rubber outsole for daily runs and gym sessions.",
+  "highlights": [
+    "Ortho-friendly insole"
+  ],
+  "specifications": [
+    {
+      "title": "Upper",
+      "description": "Engineered mesh & TPU",
+      "_id": {
+        "$oid": "69101a8352610592082346af"
+      }
+    },
+    {
+      "title": "Sole",
+      "description": "Rubber with flex grooves",
+      "_id": {
+        "$oid": "69101a8352610592082346b0"
+      }
+    }
+  ],
+  "price": 3999,
+  "cuttedPrice": 3499,
+  "images": [
+    {
+      "public_id": "products/cloth-sneakers-1",
+      "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+      "_id": {
+        "$oid": "69118ec63138e1eacfa99bba"
+      }
+    }
+  ],
+  "brand": {
+    "name": "StrideOne",
+    "logo": {
+      "public_id": "brands/strideone-footwear",
+      "url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=200"
+    }
+  },
+  "category": "Footwear",
+  "stock": 90,
+  "warranty": 3,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:37:23.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69101af55261059208234708"
+  },
+  "name": "Quilted Hooded Puffer Jacket",
+  "description": "Wind-resistant outer shell with synthetic insulation, zip pockets, and packable hood. Keeps you warm without the bulk.",
+  "highlights": [
+    "Water-repellent finish"
+  ],
+  "specifications": [
+    {
+      "title": "Fill",
+      "description": "Polyester insulation",
+      "_id": {
+        "$oid": "69101af55261059208234709"
+      }
+    },
+    {
+      "title": "Color",
+      "description": "Olive",
+      "_id": {
+        "$oid": "69101af5526105920823470a"
+      }
+    }
+  ],
+  "price": 4599,
+  "cuttedPrice": 3999,
+  "images": [
+    {
+      "public_id": "products/cloth-puffer-1",
+      "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "_id": {
+        "$oid": "69118e9f3138e1eacfa99b71"
+      }
+    },
+    {
+      "public_id": "products/cloth-puffer-2",
+      "url": "https://images.unsplash.com/photo-1544022613-e87a75eac5c3?w=800",
+      "_id": {
+        "$oid": "69118e9f3138e1eacfa99b72"
+      }
+    },
+    {
+      "public_id": "products/cloth-puffer-3",
+      "url": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "_id": {
+        "$oid": "69118e9f3138e1eacfa99b73"
+      }
+    }
+  ],
+  "brand": {
+    "name": "NorthLayer",
+    "logo": {
+      "public_id": "brands/northlayer-outerwear",
+      "url": "https://images.unsplash.com/photo-1620799140408-ed5341cd4507?w=200"
+    }
+  },
+  "category": "Jackets & Winterwear",
+  "stock": 40,
+  "warranty": 6,
+  "ratings": 0,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-11-09T04:39:17.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082345b1" },
+  "name": "Slim Fit Stretch Denim Jeans",
+  "description": "Ultra-soft stretch denim with 5-pocket styling, zip fly, and tapered leg. Designed for all-day comfort without compromising style.",
+  "highlights": ["Stretchable fabric", "Fade-resistant wash"],
+  "specifications": [
+    { "title": "Fabric", "description": "98% Cotton, 2% Elastane", "_id": { "$oid": "691017e952610592082345b2" } },
+    { "title": "Fit", "description": "Slim", "_id": { "$oid": "691017e952610592082345b3" } },
+    { "title": "Rise", "description": "Mid-Rise", "_id": { "$oid": "691017e952610592082345b4" } }
+  ],
+  "price": 2499,
+  "cuttedPrice": 1899,
+  "images": [
+    { "public_id": "products/denim-jeans-1", "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800", "_id": { "$oid": "691017e952610592082345b5" } },
+    { "public_id": "products/denim-jeans-2", "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800", "_id": { "$oid": "691017e952610592082345b6" } }
+  ],
+  "brand": { "name": "DenimCraft", "logo": { "public_id": "brands/denimcraft", "url": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=200" } },
+  "category": "Men's Casual Wear",
+  "stock": 150,
+  "warranty": 0,
+  "ratings": 4.2,
+  "numOfReviews": 12,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:00:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082345c1" },
+  "name": "Printed Rayon A-Line Kurti",
+  "description": "Flowy A-line kurti in breathable rayon with Mandarin collar, 3/4 sleeves, and vibrant block prints. Perfect for daily office and casual wear.",
+  "highlights": ["Machine washable", "No ironing needed"],
+  "specifications": [
+    { "title": "Fabric", "description": "100% Rayon", "_id": { "$oid": "691017e952610592082345c2" } },
+    { "title": "Length", "description": "Knee length", "_id": { "$oid": "691017e952610592082345c3" } },
+    { "title": "Sleeve", "description": "3/4 Sleeve", "_id": { "$oid": "691017e952610592082345c4" } }
+  ],
+  "price": 899,
+  "cuttedPrice": 649,
+  "images": [
+    { "public_id": "products/rayon-kurti-1", "url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800", "_id": { "$oid": "691017e952610592082345c5" } },
+    { "public_id": "products/rayon-kurti-2", "url": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800", "_id": { "$oid": "691017e952610592082345c6" } }
+  ],
+  "brand": { "name": "Threads & Motifs", "logo": { "public_id": "brands/threads-motifs-cloth", "url": "https://images.unsplash.com/photo-1583496661160-fb5886a0aa0b?w=200" } },
+  "category": "Women's Ethnic Wear",
+  "stock": 200,
+  "warranty": 0,
+  "ratings": 4.5,
+  "numOfReviews": 28,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:10:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082345d1" },
+  "name": "Leather Bifold Wallet with RFID Protection",
+  "description": "Genuine leather bifold wallet with 8 card slots, 2 currency compartments, and RFID blocking technology to keep your cards safe.",
+  "highlights": ["RFID blocking", "Gift box packaging"],
+  "specifications": [
+    { "title": "Material", "description": "Genuine Leather", "_id": { "$oid": "691017e952610592082345d2" } },
+    { "title": "Slots", "description": "8 Card + 2 Cash", "_id": { "$oid": "691017e952610592082345d3" } },
+    { "title": "Color", "description": "Brown", "_id": { "$oid": "691017e952610592082345d4" } }
+  ],
+  "price": 1299,
+  "cuttedPrice": 999,
+  "images": [
+    { "public_id": "products/wallet-1", "url": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800", "_id": { "$oid": "691017e952610592082345d5" } },
+    { "public_id": "products/wallet-2", "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800", "_id": { "$oid": "691017e952610592082345d6" } }
+  ],
+  "brand": { "name": "LeatherKraft", "logo": { "public_id": "brands/leatherkraft", "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=200" } },
+  "category": "Accessories",
+  "stock": 75,
+  "warranty": 12,
+  "ratings": 4.7,
+  "numOfReviews": 45,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:20:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082345e1" },
+  "name": "Oversized Hoodie with Kangaroo Pocket",
+  "description": "Heavy 350 GSM French terry hoodie with dropped shoulders, ribbed cuffs, and a spacious kangaroo pocket. Streetwear essential.",
+  "highlights": ["Unisex fit", "Pre-shrunk fabric"],
+  "specifications": [
+    { "title": "Fabric", "description": "80% Cotton, 20% Polyester", "_id": { "$oid": "691017e952610592082345e2" } },
+    { "title": "Fit", "description": "Oversized", "_id": { "$oid": "691017e952610592082345e3" } },
+    { "title": "GSM", "description": "350", "_id": { "$oid": "691017e952610592082345e4" } }
+  ],
+  "price": 1999,
+  "cuttedPrice": 1499,
+  "images": [
+    { "public_id": "products/hoodie-1", "url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800", "_id": { "$oid": "691017e952610592082345e5" } },
+    { "public_id": "products/hoodie-2", "url": "https://images.unsplash.com/photo-1578768079470-c5e419cf0e50?w=800", "_id": { "$oid": "691017e952610592082345e6" } }
+  ],
+  "brand": { "name": "UrbanThread Co.", "logo": { "public_id": "brands/urbanthread-cloth", "url": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=200" } },
+  "category": "Men's Casual Wear",
+  "stock": 100,
+  "warranty": 0,
+  "ratings": 4.3,
+  "numOfReviews": 19,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:30:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082345f1" },
+  "name": "Georgette Saree with Blouse Piece",
+  "description": "Lightweight georgette saree with sequin border and matching unstitched blouse piece. Elegant drape for weddings and parties.",
+  "highlights": ["Includes unstitched blouse", "Dry clean recommended"],
+  "specifications": [
+    { "title": "Fabric", "description": "Georgette", "_id": { "$oid": "691017e952610592082345f2" } },
+    { "title": "Length", "description": "5.5m + 0.8m blouse", "_id": { "$oid": "691017e952610592082345f3" } },
+    { "title": "Work", "description": "Sequin embroidery", "_id": { "$oid": "691017e952610592082345f4" } }
+  ],
+  "price": 3999,
+  "cuttedPrice": 2799,
+  "images": [
+    { "public_id": "products/saree-1", "url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800", "_id": { "$oid": "691017e952610592082345f5" } },
+    { "public_id": "products/saree-2", "url": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800", "_id": { "$oid": "691017e952610592082345f6" } }
+  ],
+  "brand": { "name": "Threads & Motifs", "logo": { "public_id": "brands/threads-motifs-cloth", "url": "https://images.unsplash.com/photo-1583496661160-fb5886a0aa0b?w=200" } },
+  "category": "Women's Ethnic Wear",
+  "stock": 35,
+  "warranty": 0,
+  "ratings": 4.6,
+  "numOfReviews": 33,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:40:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346a1" },
+  "name": "Cotton Chino Shorts",
+  "description": "Classic above-knee chino shorts in soft cotton twill with belt loops, slant pockets, and a comfortable elastic inner waistband.",
+  "highlights": ["Breathable fabric", "Perfect for summer"],
+  "specifications": [
+    { "title": "Fabric", "description": "100% Cotton Twill", "_id": { "$oid": "691017e952610592082346a2" } },
+    { "title": "Fit", "description": "Regular", "_id": { "$oid": "691017e952610592082346a3" } },
+    { "title": "Length", "description": "Above knee", "_id": { "$oid": "691017e952610592082346a4" } }
+  ],
+  "price": 999,
+  "cuttedPrice": 749,
+  "images": [
+    { "public_id": "products/chino-shorts-1", "url": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800", "_id": { "$oid": "691017e952610592082346a5" } },
+    { "public_id": "products/chino-shorts-2", "url": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800", "_id": { "$oid": "691017e952610592082346a6" } }
+  ],
+  "brand": { "name": "UrbanThread Co.", "logo": { "public_id": "brands/urbanthread-cloth", "url": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=200" } },
+  "category": "Men's Casual Wear",
+  "stock": 180,
+  "warranty": 0,
+  "ratings": 4.0,
+  "numOfReviews": 8,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T05:50:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346b1" },
+  "name": "High-Waist Yoga Leggings with Pockets",
+  "description": "4-way stretch leggings with moisture-wicking fabric, high waistband, and side pockets for phone. Ideal for yoga, gym, and running.",
+  "highlights": ["Squat-proof", "Side pockets"],
+  "specifications": [
+    { "title": "Fabric", "description": "75% Nylon, 25% Spandex", "_id": { "$oid": "691017e952610592082346b2" } },
+    { "title": "Fit", "description": "Compression", "_id": { "$oid": "691017e952610592082346b3" } },
+    { "title": "Waist", "description": "High-rise", "_id": { "$oid": "691017e952610592082346b4" } }
+  ],
+  "price": 1499,
+  "cuttedPrice": 1099,
+  "images": [
+    { "public_id": "products/leggings-1", "url": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800", "_id": { "$oid": "691017e952610592082346b5" } },
+    { "public_id": "products/leggings-2", "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800", "_id": { "$oid": "691017e952610592082346b6" } }
+  ],
+  "brand": { "name": "FlexFit Active", "logo": { "public_id": "brands/flexfit", "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=200" } },
+  "category": "Activewear",
+  "stock": 130,
+  "warranty": 0,
+  "ratings": 4.8,
+  "numOfReviews": 56,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:00:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346c1" },
+  "name": "Silk Blend Nehru Jacket",
+  "description": "Classic Nehru jacket in silk-blend fabric with Mandarin collar, front buttons, and welt pockets. A must for festive layering.",
+  "highlights": ["Festive wear", "Dry clean only"],
+  "specifications": [
+    { "title": "Fabric", "description": "Silk Blend", "_id": { "$oid": "691017e952610592082346c2" } },
+    { "title": "Collar", "description": "Mandarin", "_id": { "$oid": "691017e952610592082346c3" } },
+    { "title": "Occasion", "description": "Festive & Wedding", "_id": { "$oid": "691017e952610592082346c4" } }
+  ],
+  "price": 2799,
+  "cuttedPrice": 2199,
+  "images": [
+    { "public_id": "products/nehru-jacket-1", "url": "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=800", "_id": { "$oid": "691017e952610592082346c5" } },
+    { "public_id": "products/nehru-jacket-2", "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800", "_id": { "$oid": "691017e952610592082346c6" } }
+  ],
+  "brand": { "name": "SharpLine Formal", "logo": { "public_id": "brands/sharpline-formal", "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200" } },
+  "category": "Formal Wear",
+  "stock": 50,
+  "warranty": 0,
+  "ratings": 4.4,
+  "numOfReviews": 15,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:10:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346d1" },
+  "name": "Canvas Tote Bag - Printed",
+  "description": "Sturdy canvas tote with reinforced handles, inner zip pocket, and magnetic snap closure. Spacious enough for daily essentials.",
+  "highlights": ["Eco-friendly material", "Magnetic closure"],
+  "specifications": [
+    { "title": "Material", "description": "12oz Canvas", "_id": { "$oid": "691017e952610592082346d2" } },
+    { "title": "Capacity", "description": "15L", "_id": { "$oid": "691017e952610592082346d3" } },
+    { "title": "Strap", "description": "Dual handle + shoulder strap", "_id": { "$oid": "691017e952610592082346d4" } }
+  ],
+  "price": 799,
+  "cuttedPrice": 599,
+  "images": [
+    { "public_id": "products/tote-bag-1", "url": "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800", "_id": { "$oid": "691017e952610592082346d5" } },
+    { "public_id": "products/tote-bag-2", "url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800", "_id": { "$oid": "691017e952610592082346d6" } }
+  ],
+  "brand": { "name": "CarryAll", "logo": { "public_id": "brands/carryall", "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=200" } },
+  "category": "Accessories",
+  "stock": 200,
+  "warranty": 0,
+  "ratings": 4.1,
+  "numOfReviews": 22,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:20:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346e1" },
+  "name": "Block Heel Ankle Boots",
+  "description": "Faux leather ankle boots with 3-inch block heel, side zip, and cushioned insole. Versatile from office to evening outings.",
+  "highlights": ["Anti-slip sole", "Cushioned footbed"],
+  "specifications": [
+    { "title": "Material", "description": "Faux Leather", "_id": { "$oid": "691017e952610592082346e2" } },
+    { "title": "Heel", "description": "3 inch block", "_id": { "$oid": "691017e952610592082346e3" } },
+    { "title": "Closure", "description": "Side zip", "_id": { "$oid": "691017e952610592082346e4" } }
+  ],
+  "price": 2999,
+  "cuttedPrice": 2299,
+  "images": [
+    { "public_id": "products/ankle-boots-1", "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=800", "_id": { "$oid": "691017e952610592082346e5" } },
+    { "public_id": "products/ankle-boots-2", "url": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800", "_id": { "$oid": "691017e952610592082346e6" } }
+  ],
+  "brand": { "name": "StrideOne", "logo": { "public_id": "brands/strideone-footwear", "url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=200" } },
+  "category": "Footwear",
+  "stock": 60,
+  "warranty": 3,
+  "ratings": 4.3,
+  "numOfReviews": 18,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:30:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082346f1" },
+  "name": "Linen Blend Blazer - Casual Fit",
+  "description": "Unlined linen-cotton blazer with patch pockets and single button closure. Perfect for smart-casual summer looks.",
+  "highlights": ["Lightweight & breathable", "Unlined construction"],
+  "specifications": [
+    { "title": "Fabric", "description": "55% Linen, 45% Cotton", "_id": { "$oid": "691017e952610592082346f2" } },
+    { "title": "Fit", "description": "Casual/Relaxed", "_id": { "$oid": "691017e952610592082346f3" } },
+    { "title": "Closure", "description": "Single button", "_id": { "$oid": "691017e952610592082346f4" } }
+  ],
+  "price": 3499,
+  "cuttedPrice": 2699,
+  "images": [
+    { "public_id": "products/blazer-1", "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800", "_id": { "$oid": "691017e952610592082346f5" } },
+    { "public_id": "products/blazer-2", "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800", "_id": { "$oid": "691017e952610592082346f6" } }
+  ],
+  "brand": { "name": "SharpLine Formal", "logo": { "public_id": "brands/sharpline-formal", "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200" } },
+  "category": "Formal Wear",
+  "stock": 40,
+  "warranty": 0,
+  "ratings": 4.5,
+  "numOfReviews": 11,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:40:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082347a1" },
+  "name": "Printed Maxi Skirt with Elastic Waist",
+  "description": "Flowing maxi skirt in lightweight viscose with bold tropical print, elastic waistband, and side slit for easy movement.",
+  "highlights": ["Comfortable elastic waist", "Side slit design"],
+  "specifications": [
+    { "title": "Fabric", "description": "100% Viscose", "_id": { "$oid": "691017e952610592082347a2" } },
+    { "title": "Length", "description": "Ankle length", "_id": { "$oid": "691017e952610592082347a3" } },
+    { "title": "Waist", "description": "Elastic", "_id": { "$oid": "691017e952610592082347a4" } }
+  ],
+  "price": 1299,
+  "cuttedPrice": 899,
+  "images": [
+    { "public_id": "products/maxi-skirt-1", "url": "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=800", "_id": { "$oid": "691017e952610592082347a5" } },
+    { "public_id": "products/maxi-skirt-2", "url": "https://images.unsplash.com/photo-1590548784585-643d2b9f2925?w=800", "_id": { "$oid": "691017e952610592082347a6" } }
+  ],
+  "brand": { "name": "Bloom & Lane", "logo": { "public_id": "brands/bloom-lane-women", "url": "https://images.unsplash.com/photo-15153720322f-0a02087c3c0b?w=200" } },
+  "category": "Dresses & Jumpsuits",
+  "stock": 70,
+  "warranty": 0,
+  "ratings": 4.2,
+  "numOfReviews": 14,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T06:50:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082347b1" },
+  "name": "Polarized Aviator Sunglasses",
+  "description": "Classic aviator frame with polarized UV400 lenses, spring hinges, and lightweight metal construction. Includes hard case.",
+  "highlights": ["UV400 protection", "Polarized lenses", "Includes case"],
+  "specifications": [
+    { "title": "Frame", "description": "Metal alloy", "_id": { "$oid": "691017e952610592082347b2" } },
+    { "title": "Lens", "description": "Polarized CR-39", "_id": { "$oid": "691017e952610592082347b3" } },
+    { "title": "Protection", "description": "UV400", "_id": { "$oid": "691017e952610592082347b4" } }
+  ],
+  "price": 1799,
+  "cuttedPrice": 1299,
+  "images": [
+    { "public_id": "products/sunglasses-1", "url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800", "_id": { "$oid": "691017e952610592082347b5" } },
+    { "public_id": "products/sunglasses-2", "url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800", "_id": { "$oid": "691017e952610592082347b6" } }
+  ],
+  "brand": { "name": "VisionCraft", "logo": { "public_id": "brands/visioncraft", "url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=200" } },
+  "category": "Accessories",
+  "stock": 95,
+  "warranty": 6,
+  "ratings": 4.6,
+  "numOfReviews": 38,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T07:00:00.000Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "691017e952610592082347c1" },
+  "name": "Fleece Lined Jogger Pants",
+  "description": "Warm fleece-lined joggers with tapered fit, zip pockets, and ribbed ankle cuffs. Ideal for winter workouts and lounging.",
+  "highlights": ["Fleece lining", "Zip pockets"],
+  "specifications": [
+    { "title": "Fabric", "description": "Cotton-Polyester Fleece", "_id": { "$oid": "691017e952610592082347c2" } },
+    { "title": "Fit", "description": "Tapered", "_id": { "$oid": "691017e952610592082347c3" } },
+    { "title": "Feature", "description": "Zip pockets", "_id": { "$oid": "691017e952610592082347c4" } }
+  ],
+  "price": 1699,
+  "cuttedPrice": 1299,
+  "images": [
+    { "public_id": "products/joggers-1", "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800", "_id": { "$oid": "691017e952610592082347c5" } },
+    { "public_id": "products/joggers-2", "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800", "_id": { "$oid": "691017e952610592082347c6" } }
+  ],
+  "brand": { "name": "NorthLayer", "logo": { "public_id": "brands/northlayer-outerwear", "url": "https://images.unsplash.com/photo-1620799140408-ed5341cd4507?w=200" } },
+  "category": "Jackets & Winterwear",
+  "stock": 85,
+  "warranty": 0,
+  "ratings": 4.4,
+  "numOfReviews": 21,
+  "user": { "$oid": "69118e333138e1eacfa99b01" },
+  "reviews": [],
+  "createdAt": { "$date": "2025-11-09T07:10:00.000Z" },
+  "__v": 0
+}]
