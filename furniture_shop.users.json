@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "69118e333138e1eacfa99b01"
+  },
+  "name": "Vishal",
+  "email": "Vishal@gmail.com",
+  "gender": "male",
+  "plainPassword": "Vishal@123",
+  "avatar": {
+    "public_id": "default_avatar",
+    "url": "https://res.cloudinary.com/dggf8vl9p/image/upload/v1762758195/heivrcl4a6ljqhdsdzb9.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-11-10T07:03:15.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69118e333138e1eacfa99b02"
+  },
+  "name": "Vansh",
+  "email": "Vansh@gmail.com",
+  "gender": "male",
+  "plainPassword": "Vansh@123",
+  "avatar": {
+    "public_id": "default_avatar",
+    "url": "https://res.cloudinary.com/dggf8vl9p/image/upload/v1762758195/heivrcl4a6ljqhdsdzb9.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-11-10T07:05:00.000Z"
+  },
+  "__v": 0
+}]
